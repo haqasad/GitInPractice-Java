@@ -119,7 +119,7 @@ public class Test {
 			System.out.println(animal8.getHunger());
 			System.out.println(animal8.getHabitat());
 
-/*			
+			
 		//******************************************************************
 		//						ANIMALCONSTRUCTOR CLASS
 		//******************************************************************		
@@ -187,7 +187,7 @@ public class Test {
 			System.out.println(animal7.getLocation());
 			System.out.println(animal7.getHunger());
 			System.out.println(animal7.getHabitat());		
-	*/		
+			
 	}
 
 }
